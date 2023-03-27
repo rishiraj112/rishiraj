@@ -1,0 +1,19 @@
+form{
+    margin: 0 auto;
+}
+
+table{
+    margin: 0 auto;
+    color: rgb(7, 3, 206);  
+}
+
+body{
+    background-color: rgb(233, 240, 208);
+}
+
+h1{
+    text-align:center;
+    color: red;
+    font-family:serif;
+    font-style: italic;
+}
